@@ -1,0 +1,5 @@
+Hello, world!
+Hello... Hadoop; Streaming.
+WORLD? world: wOrLd
+Cats, cats, CATS!!
+map-reduce + map_reduce (punct)

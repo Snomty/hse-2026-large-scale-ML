@@ -1,0 +1,10 @@
+u1	4000	purchase
+u2	2100	click
+u1	1200	click
+u2	6000	login
+u1	1000	login
+u3	100	heartbeat
+u2	2000	login
+u1	4100	click
+u3	4000	click
+u3	200	logout

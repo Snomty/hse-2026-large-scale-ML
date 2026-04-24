@@ -1,0 +1,10 @@
+u1	100	login
+u2	20	click
+u1	300	click
+u3	50	login
+u2	400	logout
+u1	200	view
+u3	60	logout
+u1	300	purchase
+u2	10	login
+u3	50	click
