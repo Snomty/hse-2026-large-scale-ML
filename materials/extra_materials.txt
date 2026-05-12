@@ -1,0 +1,30 @@
+Как и обещал, ссылки на лекции и семинары интенсива Agents Week от ШАД:
+1) Intro to AI Agents и Tools. MCP
+
+https://vkvideo.ru/video-84793390_456240032?m-message-key-id=-4924686185532350464&m-message-click-id=c6bfc7a3-65d5-49f7-acbd-a4fe6814dc63&list=ln-GUOayt6zxDB6MbQNVZ&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day1
+
+https://vkvideo.ru/video-84793390_456240033?m-message-key-id=-4924686185532350464&m-message-click-id=67270cde-1d49-4613-b828-79535cc2a7ed&list=ln-9Z1JBhDTw12ZpFjQqq&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day1
+
+2) Memory and Guardrails in LLM-Powered Agents
+
+https://vkvideo.ru/video-84793390_456240034?m-message-key-id=-3743583418923876348&m-message-click-id=166e5bc3-eeea-4e6d-8e4c-4db1ffc314cf&list=ln-p3nTstxNqJsFP4Cuth&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day2
+
+https://vkvideo.ru/video-84793390_456240035?m-message-key-id=-3743583418923876348&m-message-click-id=aedc49ce-7092-441b-bb9b-44346dade228&list=ln-ocaDFVbgcew2tDQnyt&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day2
+
+3) Agent Workflow Multi-Agent Systems Multimodality
+
+https://vkvideo.ru/video-84793390_456240036?m-message-key-id=-3490736426465624060&m-message-click-id=6408bc2a-384a-4f77-a0e5-73745bbc5fe9&list=ln-IYzZ1qlFb6T1mxUxcM&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day3
+
+https://vkvideo.ru/video-84793390_456240037?m-message-key-id=-3490736426465624060&m-message-click-id=e4df59de-d704-46af-b756-0c0a2de1a39b&list=ln-XlND5RpJQu8Kz1IzzZ&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day3
+
+4) Agent Evaluation: From Metrics to Managed Quality
+
+https://vkvideo.ru/video-84793390_456240038?m-message-key-id=-4508932572297822204&m-message-click-id=0f59e6a8-703f-45d8-bad8-b5ea03603472&list=ln-h8sMoZ05rvUany06as&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day4
+
+https://vkvideo.ru/video-84793390_456240039?m-message-key-id=-4508932572297822204&m-message-click-id=30071bd6-d671-4cca-89da-b5d2f1e1bc9d&list=ln-C0ZIvShdj8WF6w0A9y&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day4
+
+5) Production Engineering for LLM Agents
+
+https://vkvideo.ru/video-84793390_456240040?m-message-key-id=6858819191231741956&m-message-click-id=dbc73ce1-c051-47fd-83b5-359fdb5876bf&list=ln-Tp7HdGUZFszu0lwh7F&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day5
+
+https://vkvideo.ru/video-84793390_456240041?m-message-key-id=6858819191231741956&m-message-click-id=2b1d2f07-3646-4ed8-a0e9-e31427d8096a&list=ln-v7UzBvkPgEvumWc03d&utm_source=mindbox&utm_medium=email&utm_campaign=ai-agents-week&utm_content=day5

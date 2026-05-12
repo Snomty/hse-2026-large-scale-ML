@@ -1,0 +1,27 @@
+stages:
+  download_from_s3:
+    cmd: python dvc_pipeline/download_model.py
+    deps:
+      - models/model_v1.pth
+    outs:
+      - models/model_v1_pretrained.pth
+  
+  finetune:
+    cmd: python dvc_pipeline/finetune.py
+    deps:
+      - models/model_v1_pretrained.pth
+      - dvc_pipeline/finetune.py
+    outs:
+      - models/model_v2.pth
+  
+  test:
+    cmd: python dvc_pipeline/test_model.py
+    deps:
+      - models/model_v2.pth
+      - dvc_pipeline/test_model.py
+  
+  upload_to_s3:
+    cmd: python dvc_pipeline/upload_model.py
+    deps:
+      - models/model_v2.pth
+      - dvc_pipeline/upload_model.py
